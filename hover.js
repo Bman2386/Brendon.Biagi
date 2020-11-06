@@ -1,16 +1,15 @@
 document.addEventListener("DOMContentLoaded", function() {
 
-    const code = document.getElementById('code')
-    const code2 = document.getElementById('code2')
-    const info = document.getElementById('codet')
+    const code = document.getElementById('code');
+    const info = document.getElementById('codet');
 
-    code.addEventListener('hover', e=> {
-        e.preventDefault()
-        info.style.visibility = "visible"
+    code.addEventListener('mouseover', e=> {
+        e.preventDefault();
+        info.style.display = "block";
     })
 
-    code2.addEventListener('hover', e=> {
-        e.preventDefault()
-        info.style.visibility = "visible"
+    code.addEventListener('mouseleave', e=> {
+        e.preventDefault();
+        info.style.display = "hidden";
     })
 })
