@@ -15,9 +15,14 @@
 .codet {
     visibility: hidden;
     position: absolute;
+    z-index: 1;
+    background-color: black;
+    color: white;
+    font-family: 'Open Sans', Myriad, Calibri, sans-serif;
+    border-radius: 8px;
 }
 
-.codet:hover {
+.code:hover .codet{
     visibility: visible;
-    z-index: 1;
+    
 }
