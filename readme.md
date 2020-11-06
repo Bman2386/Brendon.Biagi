@@ -1,4 +1,5 @@
 <link rel="stylesheet" href="./style.css">
+<link rel="icon" type="image/png" href="./images/icon.png"/>
 <script src="./hover.js"></script>
 
 # About Me:
