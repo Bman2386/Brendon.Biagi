@@ -19,10 +19,6 @@
     background-color: black;
     color: white;
     font-family: 'Open Sans', Myriad, Calibri, sans-serif;
-    border-radius: 8px;
+    border-radius: 1px;
 }
 
-.code:hover .codet{
-    visibility: visible;
-    
-}
