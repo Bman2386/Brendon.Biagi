@@ -1,18 +1,18 @@
-.code {
+#code {
     margin: 5px;
     background-color: white;
     position: relative;
     z-index: 0;
 }
 
-.code2 {
+#code2 {
     margin: 5px;
     background-color: white;
     padding: 4px;
     z-index: 0;
 }
 
-.codet {
+#codet {
     visibility: hidden;
     position: absolute;
     z-index: 1;
