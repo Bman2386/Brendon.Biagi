@@ -8,7 +8,7 @@ document.addEventListener("DOMContentLoaded", function() {
         info.style.display = "block";
     })
 
-    code.addEventListener('mouseleave', e=> {
+    code.addEventListener('mouseout', e=> {
         e.preventDefault();
         info.style.display = "hidden";
     })
