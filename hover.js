@@ -5,13 +5,13 @@ document.addEventListener("DOMContentLoaded", function() {
 
     code.addEventListener('mouseover', e=> {
         e.preventDefault();
-        debugger
+        // debugger
         info.style.display = "block";
     })
 
     code.addEventListener('mouseout', e=> {
         e.preventDefault();
-        debugger
+        // debugger
         info.style.display = "hidden";
     })
 })
