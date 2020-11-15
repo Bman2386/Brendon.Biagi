@@ -34,18 +34,21 @@
 
 # Projects I've Created:
 
-<div>
-<div>
+<div class="projects">
+<div class="display">
+<h3>Bubbles</h3>
 <a target="_blank" href="https://bman2386.github.io/Bubbles_JS_Project/"><img src="images/Bubbles.PNG" height="200" width="300"></a>
 <p>Bubbles is a 2D game where you control a bubble, built with JavaScript, HTML and Canvas</p>
 </div>
 
-<div>
+<div class="display">
+<h3>Take A Hike</h3>
 <a target="_blank" href="https://take-a-hike1.herokuapp.com/#/"><img src="images/hiking.gif" height="200" width="300"></a>
 <p>Take A Hike is an app for finding trails to hike on developed with the MERN stack</p>
 </div>
 
-<div>
+<div class="display">
+<h3>QuestRabbit</h3>
 <a target="_blank" href="https://quest-rabbit.herokuapp.com/#/"><img src="images/QuestRabbit.PNG" height="200" width="300"></a>
 <p>QuestRabbit is a Full Stack clone of Task Rabbit using React, Redux, Rails, & Postgres</p>
 </div>
