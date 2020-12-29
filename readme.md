@@ -1,18 +1,18 @@
 <link rel="stylesheet" href="./style.css">
 <link rel="icon" type="image/png" href="./images/icon.png"/>
 <script src="./hover.js"></script>
-<div class='content'>
 
 # About Me:
 
 **Full Stack Developer, based in Queens, with proven success at learning things quickly**
-<hr/>
+
 <a target="_blank" href="https://drive.google.com/file/d/1AsTQNu3M0gmi4ZkAlve4Ibas4-M9C8jm/view?usp=sharing">
 View My Resume
 </a>
+<hr/>
 
 ## Languages Known:
-<hr/>
+
 <div id="code">
 <img class="code" src="images/js.png" height="50" width="50">
 <!-- <span id="codet">Java Script</span> -->
@@ -37,7 +37,7 @@ View My Resume
 <img class="code2" src="images/git.png" height="30" width="60">
 <!-- <span id="codet">Git</span> -->
 </div>
-
+<hr/>
 # Projects I've Created:
 
 <div class="projects">
@@ -64,4 +64,3 @@ View My Resume
 # Find me:
 [github](https://github.com/Bman2386)
 [linkedin](https://www.linkedin.com/in/brendonbiagi/)
-</div>
