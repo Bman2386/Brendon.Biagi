@@ -5,10 +5,13 @@
 # About Me:
 
 **Full Stack Developer, based in Queens, with proven success at learning things quickly**
+<hr/>
 <a target="_blank" href="https://drive.google.com/file/d/1AsTQNu3M0gmi4ZkAlve4Ibas4-M9C8jm/view?usp=sharing">
 View My Resume
 </a>
+
 ## Languages Known:
+<hr/>
 <div id="code">
 <img class="code" src="images/js.png" height="50" width="50">
 <!-- <span id="codet">Java Script</span> -->
