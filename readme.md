@@ -38,6 +38,7 @@ View My Resume
 <!-- <span id="codet">Git</span> -->
 </div>
 <hr/>
+
 # Projects I've Created:
 
 <div class="projects">
