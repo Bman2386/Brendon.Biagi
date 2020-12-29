@@ -1,6 +1,7 @@
 <link rel="stylesheet" href="./style.css">
 <link rel="icon" type="image/png" href="./images/icon.png"/>
 <script src="./hover.js"></script>
+<div class='content'>
 
 # About Me:
 
@@ -63,3 +64,4 @@ View My Resume
 # Find me:
 [github](https://github.com/Bman2386)
 [linkedin](https://www.linkedin.com/in/brendonbiagi/)
+</div>
