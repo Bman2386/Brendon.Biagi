@@ -1,0 +1,87 @@
+.wrapper {
+    width: 80vw;
+}
+
+.code {
+    margin: .2rem;
+    background-color: transparent;
+    position: relative;
+    z-index: 0;
+    height: 7rem;
+    width: 7rem;
+}
+
+.code2 {
+    margin: .2rem;
+    background-color: transparent;
+    z-index: 0;
+    height: 7rem;
+    width: 7rem;
+}
+
+
+.display>img {
+    display: flex;
+    align-items: center;
+}
+
+.content{
+    width: 80vw;
+}
+
+.a {
+    display: flex;
+    justify-content: center;
+}
+
+.a:hover {
+    filter: drop-shadow(2px 4px 6px black);
+}
+
+img {
+    margin: 1rem;
+}
+
+.p {
+    text-align: center;
+}
+
+.links {
+    display: flex;
+    flex-direction: row;
+}
+
+.a2 {
+    margin: 1rem;
+}
+
+.a3:hover {
+    text-decoration: underline;
+}
+.a2:hover{
+    text-decoration: underline;
+}
+
+.intro {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-self: center;
+    text-align: center;
+    margin-left: 10rem;
+    margin-right: 10rem;
+}
+
+.desc {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 2rem;
+}
+
+#code{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    margin-left: 5rem;
+}
