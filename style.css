@@ -85,3 +85,9 @@ img {
     flex-wrap: wrap;
     margin-left: 5rem;
 }
+
+.footer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
