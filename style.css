@@ -95,4 +95,6 @@ img {
 footer {
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;
+    width: 100%;
 }
