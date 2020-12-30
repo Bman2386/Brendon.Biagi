@@ -55,6 +55,9 @@ img {
     margin: 1rem;
 }
 
+.a3:hover {
+    text-decoration: underline;
+}
 .a2:hover{
     text-decoration: underline;
 }
