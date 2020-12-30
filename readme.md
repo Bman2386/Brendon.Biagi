@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="./style.css">
-<link rel='icon' type='image/png' href='images/icon.png'/>
+<link rel='icon' type='image/png' href='./images/computer.png'/>
 <!-- <script src="./hover.js"></script> -->
 
 # About Me:
@@ -65,6 +65,6 @@ View My Resume
 
 # Find me:
 <div class='links'>
-<a target="_blank" href="https://github.com/Bman2386">github</a>
-<a target="_blank" href="https://www.linkedin.com/in/brendonbiagi/">linkedin</a>
+<a target="_blank" class='a2' href="https://github.com/Bman2386">github</a>
+<a target="_blank" class='a2' href="https://www.linkedin.com/in/brendonbiagi/">linkedin</a>
 </div>
