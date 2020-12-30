@@ -61,7 +61,10 @@ View My Resume
 </div>
 </div>
 
+<hr/>
 
 # Find me:
-[github](https://github.com/Bman2386)
-[linkedin](https://www.linkedin.com/in/brendonbiagi/)
+<div class='links'>
+<a target="_blank" href="https://github.com/Bman2386">github</a>
+<a target="_blank" href="https://www.linkedin.com/in/brendonbiagi/">linkedin</a>
+</div>

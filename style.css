@@ -43,3 +43,8 @@ img {
 .p {
     text-align: center;
 }
+
+.links {
+    display: flex;
+    flex-direction: row;
+}
