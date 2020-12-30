@@ -15,22 +15,7 @@
     padding: 1rem;
     z-index: 0;
 }
-#code {
-    display: hidden;
-}
 
-#code:hover {
-    display: block;
-}
-#codet {
-    display: hidden;
-    position: absolute;
-    z-index: 1;
-    background-color: black;
-    color: white;
-    font-family: 'Open Sans', Myriad, Calibri, sans-serif;
-    border-radius: 1px;
-}
 
 .display>img {
     display: flex;
@@ -73,4 +58,16 @@ img {
 
 .intro {
     text-align: center;
+}
+
+.desc {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+#code{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
 }
