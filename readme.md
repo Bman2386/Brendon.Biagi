@@ -1,18 +1,19 @@
-<head>
+<header>
 <link rel="stylesheet" href="./style.css">
-<link rel='icon' type='image/png' href='./images/computer.png'/>
+<link rel='icon' type='image/png' href='./images/favicon.ico'/>
 <!-- <script src="./hover.js"></script> -->
-</head>
+</header>
 
 # About Me:
 
 <div class='intro'>
 <h2>Full Stack Developer, based in Queens, with proven success at learning things quickly</h2>
 <p>Hi there! I am a Full Stack Developer. It has always been my dream to code and <a target="_blank" href="https://www.appacademy.io/">AppAcademy</a> has facilitated that for me. Currently I'm based in Astoria Queens, having a blast coding away. You should take some time and review my recent projects.</p>
-</div>
 <a target="_blank" class='a2' href="https://drive.google.com/file/d/1AsTQNu3M0gmi4ZkAlve4Ibas4-M9C8jm/view?usp=sharing">
 View My Resume
 </a>
+</div>
+
 <hr/>
 
 ## Languages Known:
