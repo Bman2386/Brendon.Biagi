@@ -56,7 +56,7 @@ img {
 }
 
 .a2:hover{
-    color: blue;
+    text-decoration: underline;
 }
 
 .intro {
