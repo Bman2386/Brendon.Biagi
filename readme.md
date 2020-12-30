@@ -4,9 +4,11 @@
 
 # About Me:
 
-**Full Stack Developer, based in Queens, with proven success at learning things quickly**
+<div class='intro'>
 
-<a target="_blank" class='a' href="https://drive.google.com/file/d/1AsTQNu3M0gmi4ZkAlve4Ibas4-M9C8jm/view?usp=sharing">
+**Full Stack Developer, based in Queens, with proven success at learning things quickly**
+</div>
+<a target="_blank" class='a2' href="https://drive.google.com/file/d/1AsTQNu3M0gmi4ZkAlve4Ibas4-M9C8jm/view?usp=sharing">
 View My Resume
 </a>
 <hr/>
@@ -14,27 +16,27 @@ View My Resume
 ## Languages Known:
 
 <div id="code">
-<img class="code" src="images/js.png" height="50" width="50">
-<!-- <span id="codet">Java Script</span> -->
-<img class="code" src="images/react.png" height="50" width="70" alt="React">
+<img class="code" src="images/js.png" height="75" width="75">
+<span id='code'>Java Script</span>
+<img class="code" src="images/react.png" height="75" width="95" alt="React">
 <!-- <span id="codet">React</span> -->
-<img class="code" src="images/redux.png" height="50" width="75">
+<img class="code" src="images/redux.png" height="75" width="95">
 <!-- <span id="codet">Redux</span> -->
-<img class="code" src="images/html.png" height="50" width="50">
+<img class="code" src="images/html.png" height="75" width="75">
 <!-- <span id="codet">HTML</span> -->
-<img class="code" src="images/css.png" height="50" width="50">
+<img class="code" src="images/css.png" height="75" width="75">
 <!-- <span id="codet">CSS</span> -->
-<img class="code" src="images/ruby.png" height="50" width="50">
+<img class="code" src="images/ruby.png" height="75" width="75">
 <!-- <span id="codet">Ruby</span> -->
-<img class="code" src="images/rails.png" height="50" width="50">
+<img class="code" src="images/rails.png" height="75" width="75">
 <!-- <span id="codet">Rails</span> -->
-<img class="code2" src="images/sql.png" height="40" width="40">
+<img class="code2" src="images/sql.png" height="80" width="80">
 <!-- <span id="codet">SQL</span> -->
-<img class="code" src="images/post.png" height="55" width="55">
+<img class="code" src="images/post.png" height="60" width="90">
 <!-- <span id="codet">Postgres SQL</span> -->
 <img class="code2" src="images/lite.png" height="30" width="60">
 <!-- <span id="codet">SQL Lite</span> -->
-<img class="code2" src="images/git.png" height="30" width="60">
+<img class="code2" src="images/git.png" height="45" width="85">
 <!-- <span id="codet">Git</span> -->
 </div>
 <hr/>
