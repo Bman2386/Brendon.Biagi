@@ -60,8 +60,10 @@ img {
     display: flex;
     flex-direction: column;
     justify-content: center;
+    align-self: center;
     text-align: center;
-    width: 50vw;
+    margin-left: 10rem;
+    margin-right: 10rem;
 }
 
 .desc {

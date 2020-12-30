@@ -52,16 +52,24 @@ View My Resume
 <span>SQL</span>
 </div>
 <div class="desc">
-<img class="code" src="images/post.png" height="60" width="90">
-<span>Postgres SQL</span>
+<img class="code" src="images/post.png" height="75" width="75">
+<span>PostgreSQL</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/lite.png" height="30" width="60">
-<span>SQL Lite</span>
+<img class="code2" src="images/lite.png" height="75" width="75">
+<span>SQLite</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/git.png" height="45" width="85">
+<img class="code2" src="images/git.png" height="75" width="75">
 <span>Git</span>
+</div>
+<div class="desc">
+<img class="code2" src="images/webpack.png" height="75" width="75">
+<span>Webpack</span>
+</div>
+<div class="desc">
+<img class="code2" src="images/heroku.png" height="75" width="75">
+<span>Heroku</span>
 </div>
 </div>
 <hr/>
