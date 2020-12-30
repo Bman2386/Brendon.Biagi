@@ -67,4 +67,7 @@ View My Resume
 <div class='links'>
 <a target="_blank" class='a2' href="https://github.com/Bman2386">github</a>
 <a target="_blank" class='a2' href="https://www.linkedin.com/in/brendonbiagi/">linkedin</a>
+<a target="_blank" class='a2' href="https://drive.google.com/file/d/1AsTQNu3M0gmi4ZkAlve4Ibas4-M9C8jm/view?usp=sharing">
+View My Resume
+</a>
 </div>
