@@ -24,7 +24,7 @@ View My Resume
 <span>Java Script</span>
 </div>
 <div class="desc">
-<img class="code" src="images/react.png"alt="React">
+<img class="code" src="images/react.png">
 <span>React</span>
 </div>
 <div class="desc">
