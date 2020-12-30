@@ -20,55 +20,55 @@ View My Resume
 
 <div id="code">
 <div class='desc'>
-<img class="code" src="images/js.png" height="75" width="75">
+<img class="code" src="images/js.png">
 <span>Java Script</span>
 </div>
 <div class="desc">
-<img class="code" src="images/react.png" height="75" width="95" alt="React">
+<img class="code" src="images/react.png"alt="React">
 <span>React</span>
 </div>
 <div class="desc">
-<img class="code" src="images/redux.png" height="75" width="95">
+<img class="code" src="images/redux.png">
 <span>Redux</span>
 </div>
 <div class="desc">
-<img class="code" src="images/html.png" height="75" width="75">
+<img class="code" src="images/html.png">
 <span>HTML</span>
 </div>
 <div class="desc">
-<img class="code" src="images/css.png" height="75" width="75">
+<img class="code" src="images/css.png">
 <span>CSS</span>
 </div>
 <div class="desc">
-<img class="code" src="images/ruby.png" height="75" width="75">
+<img class="code" src="images/ruby.png">
 <span>Ruby</span>
 </div>
 <div class="desc">
-<img class="code" src="images/rails.png" height="75" width="75">
+<img class="code" src="images/rails.png">
 <span>Rails</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/sql.png" height="80" width="80">
+<img class="code2" src="images/sql.png">
 <span>SQL</span>
 </div>
 <div class="desc">
-<img class="code" src="images/post.png" height="75" width="75">
+<img class="code" src="images/post.png">
 <span>PostgreSQL</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/lite.png" height="75" width="75">
+<img class="code2" src="images/lite.png">
 <span>SQLite</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/git.png" height="75" width="75">
+<img class="code2" src="images/git.png">
 <span>Git</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/webpack.png" height="75" width="75">
+<img class="code2" src="images/webpack.png">
 <span>Webpack</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/heroku.png" height="75" width="75">
+<img class="code2" src="images/heroku.png">
 <span>Heroku</span>
 </div>
 </div>
