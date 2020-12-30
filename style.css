@@ -7,16 +7,16 @@
     background-color: transparent;
     position: relative;
     z-index: 0;
-    height: 5rem;
-    width: 5rem;
+    height: 7rem;
+    width: 7rem;
 }
 
 .code2 {
     margin: .2rem;
     background-color: transparent;
     z-index: 0;
-    height: 5rem;
-    width: 5rem;
+    height: 7rem;
+    width: 7rem;
 }
 
 
@@ -80,4 +80,5 @@ img {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    margin-left: 5rem;
 }
