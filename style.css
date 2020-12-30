@@ -1,6 +1,6 @@
 .code {
     margin: 5px;
-    background-color: white;
+    background-color: transparent;
     position: relative;
     z-index: 0;
 }
