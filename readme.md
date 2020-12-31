@@ -20,55 +20,55 @@ View My Resume
 
 <div id="code">
 <div class='desc'>
-<img class="code" src="images/js.png">
+<img class="code" src="images/js.png" height='50' width='50'>
 <span>Java Script</span>
 </div>
 <div class="desc">
-<img class="code" src="images/react.png">
+<img class="code" src="images/react.png" height='50' width='50'>
 <span>React</span>
 </div>
 <div class="desc">
-<img class="code" src="images/redux.png">
+<img class="code" src="images/redux.png" height='50' width='50'>
 <span>Redux</span>
 </div>
 <div class="desc">
-<img class="code" src="images/html.png">
+<img class="code" src="images/html.png" height='50' width='50'>
 <span>HTML</span>
 </div>
 <div class="desc">
-<img class="code" src="images/css.png">
+<img class="code" src="images/css.png" height='50' width='50'>
 <span>CSS</span>
 </div>
 <div class="desc">
-<img class="code" src="images/ruby.png">
+<img class="code" src="images/ruby.png" height='50' width='50'>
 <span>Ruby</span>
 </div>
 <div class="desc">
-<img class="code" src="images/rails.png">
+<img class="code" src="images/rails.png" height='50' width='50'>
 <span>Rails</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/sql.png">
+<img class="code2" src="images/sql.png" height='50' width='50'>
 <span>SQL</span>
 </div>
 <div class="desc">
-<img class="code" src="images/post.png">
+<img class="code" src="images/post.png" height='50' width='50'>
 <span>PostgreSQL</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/lite.png">
+<img class="code2" src="images/lite.png" height='50' width='50'>
 <span>SQLite</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/git.png">
+<img class="code2" src="images/git.png" height='50' width='50'>
 <span>Git</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/webpack.png">
+<img class="code2" src="images/webpack.png" height='50' width='50'>
 <span>Webpack</span>
 </div>
 <div class="desc">
-<img class="code2" src="images/heroku.png">
+<img class="code2" src="images/heroku.png" height='50' width='50'>
 <span>Heroku</span>
 </div>
 </div>
