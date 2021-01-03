@@ -71,6 +71,10 @@ View My Resume
 <img class="code2" src="images/heroku.png" height='50' width='50'>
 <span>Heroku</span>
 </div>
+<div class="desc">
+<img class="code2" src="images/mongodb.png" height='50' width='50'>
+<span>MongoDB</span>
+</div>
 </div>
 <hr/>
 
