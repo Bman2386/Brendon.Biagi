@@ -110,4 +110,11 @@ li {
 .projects {
     display: flex;
     flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.display {
+    display: flex;
+    flex-wrap: wrap;
 }
