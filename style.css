@@ -1,3 +1,8 @@
+body{
+    background: rgb(2,0,36);
+    background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 52%, rgba(0,212,255,1) 100%);
+}
+
 .wrapper {
     width: 80vw;
 }
@@ -44,6 +49,7 @@ img {
 
 .p {
     text-align: center;
+    font-weight: 900;
 }
 
 .links {
@@ -52,7 +58,7 @@ img {
 }
 
 .a2 {
-    margin: 1rem;
+    margin: .5rem;
 }
 
 .a3:hover {
@@ -122,4 +128,44 @@ li {
 .p2 {
     width: 30%;
     padding: 2rem;
+    font-weight: 900;
 }
+
+.button {
+    display: flex;
+    width: 6rem;
+    background-color: #5198DF;
+    align-self: center;
+    border-radius: .25rem ;
+    margin-bottom: 1rem;
+    border:5px solid transparent;
+    /* box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0; */
+   
+    /* border: 5px solid white; */
+    /* border: 5px solid rgb(137, 206, 238); */
+    
+}
+
+.a4 {
+    color: white;
+    filter: none;
+    font-size: .75rem;
+    font-weight: 100;
+}
+
+strong {
+    color: white;
+    font-size: 1rem;
+}
+
+#button{
+    display: flex;
+    align-self: center;
+}
+
+.top-button:hover{
+    filter: drop-shadow(2px 4px 6px black)
+}
+/* .a4:hover{
+    text-decoration: underline;
+} */
