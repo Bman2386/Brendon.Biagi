@@ -106,3 +106,8 @@ footer {
 li {
     text-decoration: none;
 }
+
+.projects {
+    display: flex;
+    flex-direction: row;
+}
