@@ -3,6 +3,18 @@ body{
     background: linear-gradient(0deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 52%, rgba(0,212,255,1) 100%);
 }
 
+.intro-container {
+    display: flex;
+    flex-direction: row;
+}
+.me {
+    width: 15rem;
+    height: 15rem;
+    overflow: hidden;
+    object-fit: cover;
+    border-radius: 50%;
+}
+
 .wrapper {
     width: 80vw;
 }
@@ -74,8 +86,9 @@ img {
     justify-content: center;
     align-self: center;
     text-align: center;
-    margin-left: 10rem;
-    margin-right: 10rem;
+    margin-left: 5rem;
+    margin-right: 5rem;
+    width: 50%;
 }
 
 .desc {
