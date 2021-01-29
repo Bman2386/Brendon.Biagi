@@ -24,16 +24,16 @@ body{
     background-color: transparent;
     position: relative;
     z-index: 0;
-    height: 7rem;
-    width: 7rem;
+    height: 10rem;
+    width: 10rem;
 }
 
 .code2 {
     margin: .2rem;
     background-color: transparent;
     z-index: 0;
-    height: 7rem;
-    width: 7rem;
+    height: 10rem;
+    width: 10rem;
 }
 
 
