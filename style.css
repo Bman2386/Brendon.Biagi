@@ -182,3 +182,34 @@ strong {
 /* .a4:hover{
     text-decoration: underline;
 } */
+
+
+
+.buttons{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    position: fixed;
+    top: .5rem;
+    z-index: 10;
+}
+
+.nav{
+    margin-right: 1rem;
+    height: 2rem;
+    background-color: #5198DF;
+    border-radius: .5rem;
+    border: transparent;
+}
+
+.nav:hover{
+    height: 2.1rem;
+    background-color: rgba(9,9,121,1);
+}
+
+.a5 {
+    color: white;
+    filter: none;
+    font-size: .75rem;
+    font-weight: 900;
+}
