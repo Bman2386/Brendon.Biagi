@@ -49,6 +49,7 @@ body{
 .a {
     display: flex;
     justify-content: center;
+
 }
 
 .a:hover {
@@ -57,6 +58,12 @@ body{
 
 img {
     margin: 1rem;
+    border-radius: .5rem;
+}
+
+a>img:hover{
+    width: 650px;
+    height: 400px;
 }
 
 .p {
