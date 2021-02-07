@@ -229,12 +229,8 @@ strong {
 .nav-s{
     height:2.5rem;
     font-size: 1rem;
-    transition: 1s;
 }
-.nav-s:hover {
-    height: 2.7rem;
-    background-color: green;
-}
+
 .nav:hover{
     height: 2.1rem;
     background-color: rgba(9,9,121,1);
