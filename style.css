@@ -51,7 +51,13 @@ body{
     width: 10rem;
 }
 
-
+.code3 {
+    margin: .2rem;
+    background-color: transparent;
+    z-index: 0;
+    height: 10rem;
+    width: 12rem;
+}
 .display>img {
     display: flex;
     align-items: center;
