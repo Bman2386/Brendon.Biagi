@@ -82,10 +82,10 @@ img {
     border-radius: .5rem;
 }
 
-a>img:hover{
+/* a>img:hover{
     width: 650px;
     height: 400px;
-}
+} */
 
 .p {
     text-align: center;
