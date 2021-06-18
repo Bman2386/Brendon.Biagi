@@ -39,24 +39,24 @@ body{
     background-color: transparent;
     position: relative;
     z-index: 0;
-    height: 10rem;
-    width: 10rem;
+    height: 8rem;
+    width: 8rem;
 }
 
 .code2 {
     margin: .2rem;
     background-color: transparent;
     z-index: 0;
-    height: 10rem;
-    width: 10rem;
+    height: 8rem;
+    width: 8rem;
 }
 
 .code3 {
     margin: .2rem;
     background-color: transparent;
     z-index: 0;
-    height: 10rem;
-    width: 12rem;
+    height: 8rem;
+    width: 10rem;
 }
 .display>img {
     display: flex;
