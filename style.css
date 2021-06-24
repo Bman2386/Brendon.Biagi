@@ -6,6 +6,7 @@ body{
 .intro-container {
     display: flex;
     flex-direction: row;
+    justify-content: space-evenly;
 }
 
 .top-s {
@@ -28,6 +29,8 @@ body{
     overflow: hidden;
     object-fit: cover;
     border-radius: 50%;
+    margin: 0;
+    margin-bottom: .5rem;
 }
 
 .wrapper {
@@ -116,6 +119,7 @@ img {
     text-align: center;
     margin-left: 5rem;
     margin-right: 5rem;
+    margin-top: 2rem;
     width: 50%;
 }
 
@@ -130,7 +134,7 @@ img {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
-    margin-left: 5rem;
+    margin-left: 1rem;
 }
 
 .footer {
