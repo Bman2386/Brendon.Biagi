@@ -1,17 +1,19 @@
 window.onscroll = function() {scrollFunction()};
 //make this cleaner
 function scrollFunction() {
+  const element = ["top", "a1", "a2", "a3", "a4"];
+  const className = ['top-s', 'nav-s', 'nav-s','nav-s','nav-s'];
   if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
-    document.getElementById("top").classList.add('top-s');
-    document.getElementById("a1").classList.add('nav-s');
-    document.getElementById("a2").classList.add('nav-s');
-    document.getElementById("a3").classList.add('nav-s');
-    document.getElementById("a4").classList.add('nav-s');
+    for (let i = 0; i < element.length; i++){
+      document
+      .getElementById(element[i])
+      .classList.add(className[i]);
+    }
   } else {
-    document.getElementById("top").classList.remove('top-s');
-    document.getElementById("a1").classList.remove('nav-s');
-    document.getElementById("a2").classList.remove('nav-s');
-    document.getElementById("a3").classList.remove('nav-s');
-    document.getElementById("a4").classList.remove('nav-s');
+    for (let i = 0; i < element.length; i++){
+      document
+      .getElementById(element[i])
+      .classList.remove(className[i]);
+    }
   }
 }
