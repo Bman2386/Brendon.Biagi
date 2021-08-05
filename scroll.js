@@ -1,5 +1,4 @@
 window.onscroll = function() {scrollFunction()};
-//make this cleaner
 function scrollFunction() {
   const element = ["top", "a1", "a2", "a3", "a4"];
   const className = ['top-s', 'nav-s', 'nav-s','nav-s','nav-s'];
