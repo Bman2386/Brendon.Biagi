@@ -9,7 +9,7 @@
 <div class='intro'>
 <h2>Software Engineer, based in Queens, with proven success at learning things quickly</h2>
 <p>Hi there! I am a Software Engineer, Full Stack Developer, Veteran, & Musician. It has always been my dream to code and <a target="_blank" class="a3" href="https://www.appacademy.io/">AppAcademy</a> has facilitated that for me. Currently I'm based in Astoria Queens, having a blast coding away. You should take some time and review my <a href="#projects" class='a3'>recent projects</a>.</p>
-<a target="_blank" class='a2' href="https://drive.google.com/file/d/1AsTQNu3M0gmi4ZkAlve4Ibas4-M9C8jm/view?usp=sharing">
+<a target="_blank" class='a2' href="https://drive.google.com/file/d/1sLdV-j0bpjnYZ1RIPbRC_4C5aXTwxL_m/view?usp=sharing">
 View My Resume
 </a>
 </div>
@@ -112,7 +112,7 @@ View My Resume
 <div class='links'>
 <a target="_blank" class='a2' href="https://github.com/Bman2386">github</a>
 <a target="_blank" class='a2' href="https://www.linkedin.com/in/brendonbiagi/">linkedin</a>
-<a target="_blank" class='a2' href="https://drive.google.com/file/d/1AsTQNu3M0gmi4ZkAlve4Ibas4-M9C8jm/view?usp=sharing">
+<a target="_blank" class='a2' href="https://drive.google.com/file/d/1sLdV-j0bpjnYZ1RIPbRC_4C5aXTwxL_m/view?usp=sharing">
 View My Resume
 </a>
 </div>
