@@ -85,10 +85,6 @@ img {
     border-radius: .5rem;
 }
 
-/* a>img:hover{
-    width: 650px;
-    height: 400px;
-} */
 
 .p {
     text-align: center;
@@ -155,6 +151,15 @@ footer {
     margin-bottom: .5rem;
 }
 
+.calendly {
+    color: white;
+    margin-bottom: .5rem;
+}
+
+.calendly:hover{
+    cursor: pointer;
+    text-decoration: underline;
+}
 li {
     text-decoration: none;
 }
@@ -185,11 +190,6 @@ li {
     border-radius: .25rem ;
     margin-bottom: 1rem;
     border:5px solid transparent;
-    /* box-shadow: rgba(0, 0, 0, 0.2) 0 -1px 0; */
-   
-    /* border: 5px solid white; */
-    /* border: 5px solid rgb(137, 206, 238); */
-    
 }
 
 .a4 {
