@@ -212,9 +212,6 @@ strong {
 .top-button:hover{
     filter: drop-shadow(2px 4px 6px black)
 }
-/* .a4:hover{
-    text-decoration: underline;
-} */
 
 
 
@@ -223,8 +220,6 @@ strong {
     justify-content: center;
     width: 100%;
     position: fixed;
-    /* padding-top: .5rem;
-    padding-bottom: .5rem; */
     top: 0;
     z-index: 10;
 }
