@@ -249,6 +249,7 @@ strong {
 .nav:hover{
     height: 2.1rem;
     background-color: rgba(9,9,121,1);
+    cursor: pointer;
 }
 
 .nav-s:hover{
