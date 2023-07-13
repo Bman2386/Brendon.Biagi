@@ -249,6 +249,10 @@ strong {
     background-color: rgba(9,9,121,1);
 }
 
+.nav-s:hover{
+    height: 2.5rem;
+}
+
 .a5 {
     color: white;
     filter: none;

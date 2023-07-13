@@ -23,25 +23,30 @@
 
     <link rel="stylesheet" href="./assets/css/style.css?v=6298a52d52d16d23603974964aa00be7f7ed3861">
     <script src="./assets/js/scale.fix.js"></script>
+    <script type="text/javascript">
+      function goTo(tag){
+        location.href = tag
+      }
+    </script>
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
   </head>
 
   <body>
     <span class='buttons'>
       <div id='top'>
-         <button class='nav' id='a1'>
+         <button class='nav' id='a1' onclick="goTo('#intro')">
             <a href="#intro" class='a5'>About me</a>
           </button>
-          <button class='nav' id='a2'>
+          <button class='nav' id='a2' onclick="goTo('#languages-known')">
             <a href='#languages-known' class='a5'>Tech Stack</a>
           </button>
-          <button class="nav" id="a5">
+          <button class="nav" id="a5" onclick="goTo('#devlog')">
             <a href="#devlog" class="a5">Dev_log</a>
           </button>
-          <button class='nav' id='a3'>
+          <button class='nav' id='a3' onclick="goTo('#projects')">
             <a href='#projects' class='a5'>Projects</a>
           </button>
-          <button class='nav' id='a4'>
+          <button class='nav' id='a4' onclick="goTo('#find-me')">
             <a href='#find-me' class='a5'>Contact</a>
           </button>
       </div>
@@ -267,7 +272,6 @@
   </div>
   <hr />
 </div>
-
 
 </div>
 
