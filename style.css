@@ -238,12 +238,13 @@ strong {
     border-radius: .5rem;
     border: transparent;
     color: white;
-    font-weight: 900;
+    font-weight: 700;
 }
 
 .nav-s{
     height:2.5rem;
     font-size: 1rem;
+    font-weight: 500;
 }
 
 .nav:hover{
