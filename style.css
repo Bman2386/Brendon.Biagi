@@ -267,3 +267,9 @@ strong {
 .center{
     text-align: center;
 }
+
+iframe{
+    height: 55vh;
+    width: 50vw;
+    border-radius: 2%;
+}
