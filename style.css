@@ -269,7 +269,14 @@ strong {
 }
 
 iframe{
+    justify-self: center;
     height: 55vh;
     width: 50vw;
     border-radius: 2%;
+    margin-bottom: 1rem;
+}
+
+.video{
+    display: flex;
+    justify-content: center;
 }
