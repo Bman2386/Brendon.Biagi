@@ -1,5 +1,5 @@
 # This is my portfolio site
-- This a very simple page that gives prospective employers links to my resume, completed projects, tech stack etc.
+- This page is designed to showcase my skills and give interested parties access to my completed projects, tech stack etc.
 - The live version can be found [here:](https://bman2386.github.io/Brendon.Biagi/)
 
 - It does have a very subtle animation feature when you scroll down the page
