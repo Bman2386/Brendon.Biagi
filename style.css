@@ -117,8 +117,6 @@ img {
 .intro {
     display: flex;
     flex-direction: column;
-    justify-content: center;
-    align-self: center;
     text-align: center;
     margin-left: 5rem;
     margin-right: 5rem;
@@ -289,3 +287,7 @@ iframe{
     margin-left: 2rem;
 }
 
+.intro-p {
+    text-align: left;
+    font-weight: 900;
+}
