@@ -145,7 +145,7 @@ img {
     margin: 1rem;
 }
 
-#code{
+.code-wrapper{
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
