@@ -68,6 +68,14 @@ body{
     height: 6rem;
     width: 12rem;
 }
+.code5{
+    margin: .2rem;
+    background-color: transparent;
+    position: relative;
+    z-index: 0;
+    height: 7rem;
+    width: 7rem;
+}
 .display>img {
     display: flex;
     align-items: center;
@@ -129,6 +137,12 @@ img {
     flex-direction: column;
     text-align: center;
     margin: 2rem;
+}
+.desc2 {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    margin: 1rem;
 }
 
 #code{
