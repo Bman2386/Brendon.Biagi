@@ -4,7 +4,7 @@ const classListArray = ['top-s', 'nav-s', 'nav-s','nav-s','nav-s', 'nav-s']
 window.onscroll = function() {scrollFunction()}
 window.onload = function(){onClickHandle()}
 
-function onClickHandle(){
+const onClickHandle=() => {
     for (let i = 1; i < elementArray.length; i++){
      document
       .getElementById(elementArray[i])
@@ -12,7 +12,7 @@ function onClickHandle(){
   }
 }
 
-function scrollFunction() {
+const scrollFunction= () => {
   if (document.body.scrollTop > 50 || document.documentElement.scrollTop > 50) {
     for (let i = 0; i < elementArray.length; i++){
       document
@@ -29,7 +29,7 @@ function scrollFunction() {
 }
 
 
-function goToTag(e){
+const goToTag = (e) => {
   e.preventDefault()
   if (e.target.value) location.href=e.target.value
 }
